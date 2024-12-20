@@ -1,0 +1,8 @@
+"./Lab3_part11_Servando_Olvera.obj"
+"./clock.obj"
+"./gpio.obj"
+"./nvic.obj"
+"./tm4c1230h6pm_startup_ccs.obj"
+"./wait.obj"
+"../tm4c1230h6pm.cmd"
+-llibc.a
